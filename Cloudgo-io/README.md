@@ -19,18 +19,22 @@
 
 1. 静态文件服务
 ![1](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/2.png)
-<br>
+  
+
 2. 网页显示
 ![2](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/1.png)
-<br>
+  
+
 3. 简单 js 访问
 ![3](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/3.png)
 ![4](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/4.png)
-<br>
+  
+
 4. 提交表单，并输出一个表格
 ![5](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/5.png)
 ![6](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/7.png)
-<br>
+  
+  
 5. 对 `/unknown` 给出开发中的提示，返回码 `5xx`
 ![7](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/Cloudgo-io/screenshot/6.png)
 
