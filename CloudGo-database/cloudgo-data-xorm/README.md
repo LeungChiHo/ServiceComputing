@@ -22,6 +22,7 @@ xorm是一个简单而强大的Go语言ORM库.通过它可以使数据库操作�
 ![4](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/CloudGo-database/screenshot/4.png)
 
 **查询数据**
+
 查询刚刚上传的数据
 
 ![5](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/CloudGo-database/screenshot/5.png)
@@ -32,9 +33,10 @@ xorm是一个简单而强大的Go语言ORM库.通过它可以使数据库操作�
 
 **5. 性能测试**
 
+这个是对xorm实现的查询进行测试
 ![7](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/CloudGo-database/screenshot/7.png)
 
-下面是database/sql的实现方法
+下面是对database/sql实现的查询进行测试
 
 ![8](https://raw.githubusercontent.com/LeungChiHo/ServiceComputing/master/CloudGo-database/screenshot/%E5%8E%9F%E6%9D%A5.png)
 
